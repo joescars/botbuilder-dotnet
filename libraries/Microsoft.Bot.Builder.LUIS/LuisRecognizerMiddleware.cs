@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using Microsoft.Bot.Schema;
 using Microsoft.Cognitive.LUIS;
 
-[assembly: InternalsVisibleTo("Microsoft.Bot.Builder.LUIS.Tests")]
+//[assembly: InternalsVisibleTo("Microsoft.Bot.Builder.LUIS.Tests")]
 namespace Microsoft.Bot.Builder.LUIS
 {
     /// <summary>
